@@ -5,6 +5,7 @@
 - 👀 I’m interested in 
    - Web Development
    - Android Development
+   - DevOps
 
 - 🌱 I’m currently learning 
    - C++
